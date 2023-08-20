@@ -1,0 +1,320 @@
+NOTE
+
+AGRICULTURAL AND BIOSYSTEMS ENGINEERING DISCIPLINE
+C.J. Ejieji and M.O. Sunmonu
+COURSE SYNOPSIS
+Agricultural and Biosystems Engineering
+Introduction to agricultural and biosystems engineering profession; Definition of
+agricultural engineering. Specializations/ Options in agricultural engineering,
+Use of various implements and equipment in agricultural engineering for various
+operations/processes .Prospects and job opportunities in agricultural and
+biosystems engineering as a profession;. Relevant regulatory bodies and societies
+in agricultural and biosystems engineering. The role of agricultural engineers in
+advancement of humanity.
+1.0 INTRODUCTION TO AGRICUTURAL AND BIOSYSTEMS
+ENGINEERING DISCIPLINE
+1.1 DEFINITION
+Engineering – This is the profession in which knowledge of the
+mathematical, physical and biological sciences gained by study experience
+and practice is applied in the efficient use of materials and forces of nature
+for the benefit of man and the environment.
+Agriculture – Encompasses the art, science and industry of managing the
+growth of plants and animals for the benefit of man. It includes the
+production of crops and rearing of livestock including fishes; their
+processing to varied degrees and products; and marketing of their end
+products.
+Agricultural Engineering – The application of engineering and
+technology and the physical biological sciences in agricultural production.
+It requires the application of knowledge from other branches of
+engineering to the extent that such knowledge may be used in solving
+engineering problems of agriculture in all ramifications and in rural living.
+The principal objective of Agricultural Engineering is to provide
+appropriate modern equipment, technology and conducive environment
+2
+for agricultural production, processing and storage.This ensures improved
+productivity, profitability and sustainability of the enterprise. Through
+agricultural engineering, the following are achieved:
+(a) Reduction in the hazards of farming operations
+(b) Reduction of drudgery in agricultural productions
+(c) Moderation of seasonality of agricultural produce
+availability by development of systems that protect
+production from vagaries of weather.
+(d) Continuous development and improvement of equipment
+and technologies for production, processing and storage
+(e) Enhancement of quality of life and financial security for
+farming families and enterprises.
+(f) National self-sufficiency in food supply and raw materials
+for agro-based industries.
+(g) Sustainability of the environment for agricultural
+production systems
+A good agricultural engineer must be knowledgeable to an appropriate level, in
+most aspects of engineering disciplines and have interest in working in rural,
+semi-urban and peri-urban settings.
+1.2 SPECIALIZATION/ OPTIONS IN AGRICULTURAL AND
+BIOSYSTEMS ENGINEERING
+Agricultural Engineering profession worldwide focuses its attention on six ( 6)
+main areas, namely:
+1.2.1 Aquacultural Engineering
+Aquaculture engineering is the branch of agricultural engineering that studies
+cultured aquatic species and the production systems used in their culture. Study,
+research and development in this area ranges from low intensity man-made pond
+systems to highly intensive recirculation systems involving natural lakes. Species
+cultured in these systems could range from warm to cold water fish and from
+fresh to sea water .This is an important aspect of agriculture in fishery. In modern
+day fishery, either in ponds, rivers, or the oceans, a variety of machines are used
+for raising, catching and processing fish. Aquacultural Engineering delas with the
+structures and machines required for various fishery operations.
+3
+1.2.2 Processing and Storage Engineering
+Agricultural processing and storage is another branch of Agricultural Engineering.
+In this course, it will be considered in two categories, namely: Agricultural
+Processing and Storage of agricultural products. Agricultural processing can
+further be divided into crop processing and food processing. Crop processing is
+any procedure or treatment that prepares farm products for utilization or
+preservation. Food processing, however, is the process of physically or
+chemically converting the crops into a form that could easily be cooked or eaten.
+Stoarge can be defined as the art and science of keeping of crops in good
+condition in a safe place until usage time or consumption time.
+1.2.3 Power and Machinery Engineering
+This branch of Agricultural Engineering deals with the area of farm
+mechanization. Farm mechanization is defined as the application of engineering
+principles and technology in agricultural production, processing and storage.
+Agricultural mechanization is a wider term used when these activities extend
+beyond the boundaries of the farm unit. Farm mechanization is not only
+tractorization but a process of improving farming operations and farm structures.
+The major role of power units in the farm is to operate farm equipment for land
+clearing and development, cultivation, harvesting, processing, handling,
+transporting, loading, unloading, pumping and any other farm operations. The use
+of farm machinery in Nigerian agriculture is gaining popularity because of the
+increasing awareness to large- scale farming.
+1.2.4 Structures and Environment Engineering
+This branch of Agricultural Engineering deals with the planning, design and
+construction of farmstead and controlled environments for production, storage and
+processing. Farmstead structures include animal housing units, farm dwellings
+and produce structures. Examples of closed controlled-environment systems are
+silos, rhumbus and green houses.
+1.2.5 Soil and Water Engineering
+Soil and water engineering is that branch of agricultural engineering where
+engineering principles are applied in solving problems associated with managing
+soil and water resources. The aim of soil conservation is to protect the soil from
+degradation which may result from the effect of water, wind and improper land
+use practices Soil and water conservation may involve modified tillage and crop
+management practices . It could include mulching using artificial and natural
+materials, contouring and terracing. Conservation of soil water may also involve
+engineered systems for improving soil profile water storage.
+4
+Drainage is an aspect of soil and water engineering dealing with the removal of
+excess water from surface and subsurface of the field. Irrigation is also an aspect
+of soil and water engineering dealing with the application of water to the field so
+that crop production is not hampered by water stress. It is required when
+precipitation is either not available or is insufficient to meet crop water
+requirement.
+Water conveyance systems may also consist of pipelines and canals. Field water
+application systems vary in levels of sophistication. They include wild flooding,
+engineered surface and overhead application system.
+1.3 USE OF VARIOUS IMPLEMENTS AND EQUIPMENT IN
+AGRICULTURAL ENGINEERING FOR VARIOUS OPERATIONS
+The following are some of the implements and equipment used for various
+operations in Agricultural Engineering:
+S/No. Operation Implements/ Equipment
+1. seed bed or root bed preparation primary tillage implements
+Like disc plough
+2. planting, fertilizer application planter, fertilizer applicator
+3. spraying, harvesting and threshing sprayer, combine harvester,
+Thresher
+4. Size reduction hammer mill, crushers, dryers
+5. Livestock production and incubators, hatchers, milk
+Processing machineries processing machines.
+6. Adding energy to water pumps
+Movement in pipes
+7 Rainfall Measurement rain gauges
+8. Water supply and water pumps, flow control
+Irrigation valves and devices, sprinkler
+heads
+9. Crop Storage corn cribs, rhombus, silos,
+Fans, conveyors. Electric
+motor, refrigerators, silos
+10. Bush Clearing and Hoes and cutlasses
+Land preparation
+11. Power production for tillage, planting, Agricultural Tractor.
+weeding, harvesting, processing and
+transportation
+12 Drying Operations Solar and mechanical dryers
+1.4 PROSPECTS AND JOB OPPORTUNITIES IN AGRICULTURAL
+AND BIOSYSTEMS ENGINEERING
+The prospects of Agricultural Engineer upon completion of studies are very wide.
+The broad Agricultural Engineering Curriculum makes an Agricultural Engineers
+A “ Jack of all trades and almost a master of all”. So employment opportunities
+in Agricultural Engineering cut across many areas. Such areas are stated below.
+1.4.1 Human Resources Development
+To keep the Agricultural Engineering profession alive, a younger generation of
+Agricultural Engineers must be trained to replace the old ones. These objectives
+can be achieved by establishing educational and research institutions such as
+Universities, Polytechnics, Colleges of Agriculture and Education, Research
+Institutes; and by reruiting the already trained and experienced Agricultural
+Engineers and other relevant professionals.
+1.4.2 Private Firms
+An Agricultural Engineer can work in private establishments dealing with plant
+leasing or hiring service, consultancy services and sales and services of farm
+machinery.
+1.4.3 Industries
+Examples of industries that employ the services of Agricultural Engineers are:
+(i) Agro- industrial set up such as sugar company
+(ii) Paper production factories
+(iii) Oil palm production companies
+(iv) Vegetable oil production companies
+(v) Farm equipment manufacturing industries ( design, supervision
+and fabrication of various farm equipment
+(vi) Feed processing industries ( Agricultural Engineers advice on
+purchase, installation and maintenance of agro-processing
+equipment)
+1.4.4 Private Farm Establishments
+Agricultural Engineers are useful in the development of machinery maintenance
+procedure for private crop production farms. They can also serve in the
+management team of the establishment.
+1.4.5 Financial Institution
+The Agricultural Engineer is, in most cases, an inventory officers or investment
+officers in Agricultural Credit and Loan Section in institution such as banks and
+insurance firms.
+10
+1.4.6 Field Practice
+An Agricultural Engineer may be deployed to the field to investigate the problems
+confronting the farmers, analyze such findings, in collaboration with other
+engineers and non-engineers find solutions to such problems and train farmers on
+how such solutions can be implemented.
+1.4.7 Government Agencies Dealing with Agricultural Production
+Such agencies are Ministries of Agriculture, River Basin Development
+Authorities, Agricultural Development Cooperation, Agricultural Mechanization
+Development, Boards or Cooperation or Company, World Bank Assisted
+Agricultural Development Programme.
+1.4.8 Self Employment
+An Agricultural Engineer can set up a private professional practice such as
+workshops that can take care of the maintenance and development of farm
+machinery and processing equipment.
+1.4.9 Miscellaneous
+An Agricultural Engineer is very versatile because of his broad background. His
+academic training makes him fit for some civil and mechanical jobs. He can be an
+Environmental Engineer, Waste Management Engineer, Quality Control Engineer
+and Project Engineer. He can pursue higher degrees in these other engineering
+branches and he can be easily trained to face series of challenges in these
+disciplines.
+1.5 RELEVANT PROFESSIONAL BODIES IN AGRICULTURAL AND
+BIOSYSTEMS ENGINEERING
+A Professional Regulatory Body is a body established by a decree or an act of the
+legislative arm of Government and its primary function is to regulate the training
+of members of the profession and the professional practice. Such regulatory body
+for the Agricultural Engineering and other Engineering professions in Nigeria is
+the Council for the Regulation of Engineering in Nigeria (COREN). A practicing
+agricultural engineer must be registered by the Council for the Regulation of
+Engineering in Nigeria (COREN).A professional Society is an association formed
+by members of the profession with the primary objectives of providing a forum
+where members of the profession can interact to share ideas. Such professional
+societies are Nigerian Society of Engineers (NSE), Nigerian Institution of
+Agricultural Engineers (NIAE), West African Society of Agricultural Engineers
+(WASAE) and American Society of Agricultural and Biological Engineers (
+ASABE). The Nigerian Society of Engineers is the umbrella association for all
+11
+engineering disciplines in Nigeria and it provides a bigger forum where, apart
+from interacting with themselves, Agricultural Engineers can interact with other
+engineering professionals.
+1.6 THE ROLES OF AGRICULTURAL ENGINEERS IN
+ADVANCEMENT OF HUMANITY
+Agricultural Engineers can contribute to the development of our nation through
+agricultural development in the following ways:
+(i) Development and production of appropriate agricultural machinery
+(ii) Development and production of storage and processing facilities
+for the farm produce
+(iii) Development of appropriate Irrigation and Water Conservation
+methods that can be readily practiced by our farmers
+(iv) Formulation of, and research into, mechanization system that will
+be relevant to our vegetation and soil types
+(v) Standardization of equipment being imported into the country
+(vi) Conduction of research into human factors in the use of machinery
+(vii) Formulation of appropriate standard agricultural mechanization
+management systems that will be peculiar to Nigeria though may
+be adaptable to other countries in the areas of maintenance
+(viii) Research into fundamental problems affecting operations of the
+machines e.g soil dynamics
+(ix) Investigation into material properties of crops to determine the
+appropriate storage facilities to be provided.
+(x) Crop Production
+(xi) Animal and Fish Production
+(xii) Management, Distribution and Transportation
+
+QUESTIONS
+
+1. ………………..this is the profession in which knowledge of the mathematical, physical and
+biological sciences gained by study experience and practice is applied in the efficient use of
+materials and forces of nature for the benefit of man and the environment.
+2. ……………….encompasses the art, science and industry of managing the growth of plants and
+animals for the benefit of man. It includes the production of crops and rearing of livestock
+including fishes; their processing to varied degrees and products; and marketing of their end
+products.
+3. ……………….. the application of engineering and technology and the physical biological sciences
+in agricultural production. It requires the application of knowledge from other branches of
+engineering to the extent that such knowledge may be used in solving engineering problems of
+agriculture in all ramifications and in rural living.
+4. Agricultural Engineering profession worldwide focuses its attention on …. main areas
+5. ……………….. is the branch of agricultural engineering that studies cultured aquatic species and
+the production systems used in their culture.
+6. Agricultural Processing and Storage of agricultural products are categories of ………………..
+7. Agricultural processing can be divided into ………………..
+8. ……………… any procedure or treatment that prepares farm products for utilization or
+preservation.
+9. ……………… is the process of physically or chemically converting the crops into a form that could
+easily be cooked or eaten.
+10. ………………. can be defined as the art and science of keeping of crops in good condition in a safe
+place until usage time or consumption time.
+11. ……………… this branch of Agricultural Engineering deals with the planning, design and
+construction of farmstead and controlled environments for production, storage and processing.
+12. ……………… is that branch of agricultural engineering where engineering principles are applied in
+solving problems associated with managing soil and water resources.
+13. ……………… is an aspect of soil and water engineering dealing with the removal of excess water
+from surface and subsurface of the field.
+14. …………….. is also an aspect of soil and water engineering dealing with the application of water
+to the field so that crop production is not hampered by water stress.
+15. ……………… is required when precipitation is either not available or is insufficient to meet crop
+water requirement.
+16. The broad Curriculum ………………. makes an ………………. A “ Jack of all trades and almost a
+master of all”
+17. COREN?
+18. NSE?
+19. A practicing agricultural engineer must be registered by ……….
+20. …………….. is the umbrella association for all engineering disciplines in Nigeria.
+21. ………....... is an equipment used to separate fluids of different densities.
+22. …………… is an equipment used to measure and quantify the reluctance and transmittance
+properties of a sample material.
+23. ……………. Is an equipment used for material sample analysis.
+24. ……………. Is an equipment/machine that supplies the tractive force, pull and push for diverse.
+25. ……………. Is an equipment used for laboratory investigation of the effect of tillage tool on
+simulated soil conditions.
+26. ……………. Is an equipment used for crop protection.
+
+ANSWERS
+
+1. Engineering
+2. Agriculture
+3. Agricultural Engineering
+4. 6
+5. Aquaculture engineering
+6. Processing and Storage Engineering
+7. crop processing and food processing
+8. crop processing
+9. food processing
+10. Storage
+11. Structures and Environment Engineering
+12. Soil and Water Engineering
+13. Drainage
+14. Irrigation
+15. Irrigation
+16. Agricultural Engineering ; Agricultural Engineer
+17. the -Council for the Regulation of Engineering in Nigeria
+18. Nigerian Society of Engineers
+19. COREN
+20. Nigerian Society of Engineers
+21. A centrifuge
+22. A spectrometer
+23. Sieve shaker
+24. Merry Ferguson 3070
+25. Soil Bin Track
+26. Boom Sprayer 
